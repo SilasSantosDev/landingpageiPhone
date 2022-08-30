@@ -4,4 +4,4 @@
 Preview do projeto: 
 <br>
 <br>
-![Captura de tela 2022-08-30 121212](https://user-images.githubusercontent.com/96795530/187474991-b3b6ffc7-9ec8-47ab-becf-9cbdb07c7b28.png)
+![iPhone](https://user-images.githubusercontent.com/96795530/187475215-e6214844-4904-43d9-b8da-34746117d7b6.png)
